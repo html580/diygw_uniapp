@@ -1,0 +1,152 @@
+{
+	"pages" : [
+			{
+			"path": "pages/indexx/index",
+			"style": {
+				"navigationBarTitleText": "DIY官网组件演示大全"
+			}
+		},
+		{
+			"path": "pages/grid/index",
+			"style": {
+				"navigationBarTitleText": "九宫格"
+			}
+		},
+		{
+			"path": "pages/appmsg/index",
+			"style": {
+				"navigationBarTitleText": "图文列表"
+			}
+		},
+		{
+			"path": "pages/menu/index",
+			"style": {
+				"navigationBarTitleText": "滑出菜单"
+			}
+		},
+		{
+			"path": "pages/tab/index",
+			"style": {
+				"navigationBarTitleText": "选项卡"
+			}
+		},
+		{
+			"path": "pages/floatbar/index",
+			"style": {
+				"navigationBarTitleText": "悬浮框"
+			}
+		},
+		{
+			"path": "pages/checkbox/index",
+			"style": {
+				"navigationBarTitleText": "多选组件"
+			}
+		},
+		{
+			"path": "pages/form/index",
+			"style": {
+				"navigationBarTitleText": "表单组件"
+			}
+		},
+		{
+			"path": "pages/window/index",
+			"style": {
+				"navigationBarTitleText": "弹窗组件"
+			}
+		},
+		{
+			"path": "pages/swiperok/index",
+			"style": {
+				"navigationBarTitleText": "滑块组件"
+			}
+		},
+		{
+			"path": "pages/about/index",
+			"style": {
+				"navigationBarTitleText": "关于我们"
+			}
+		},
+		{
+			"path": "pages/link/index",
+			"style": {
+				"navigationBarTitleText": "联系我们"
+			}
+		},
+		{
+			"path": "pages/video/index",
+			"style": {
+				"navigationBarTitleText": "视频音频"
+			}
+		},
+		{
+			"path": "pages/page607432/index",
+			"style": {
+				"navigationBarTitleText": "文本链接"
+			}
+		},
+		{
+			"path": "pages/button/index",
+			"style": {
+				"navigationBarTitleText": "按钮"
+			}
+		},
+		{
+			"path": "pages/view/index",
+			"style": {
+				"navigationBarTitleText": "容器"
+			}
+		},
+		{
+			"path": "pages/error/index",
+			"style": {
+				"navigationBarTitleText": "错误页面"
+			}
+		},
+		{
+			"path": "pages/webview/index",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/empty/index",
+			"style": {
+				"navigationBarTitleText": "错误了"
+			}
+		}
+	],
+	"globalStyle" : {
+		"navigationBarBackgroundColor": "#479de6",
+	    "navigationBarTextStyle": "white",
+	    "navigationBarTitleText": "组件演示大全",
+	    "backgroundColor": "#ffffff",
+	    "backgroundTextStyle": "light",
+	    "enablePullDownRefresh":false
+	},
+	 "tabBar": {
+	    "color": "#999999",
+	    "selectedColor": "#09bb07",
+	    "borderStyle": "white",
+	    "backgroundColor": "#f7f7fa",
+	    "list": [
+	    {
+	      "pagePath": "pages/indexx/index",
+	      "iconPath": "static/images/icon1c.png",
+	      "selectedIconPath": "static/images/icon1.png",
+	      "text": "首页"
+	    },
+	    {
+	      "pagePath": "pages/about/index",
+	      "iconPath": "static/images/icon2c.png",
+	      "selectedIconPath": "static/images/icon2.png",
+	      "text": "关于我们"
+	    },
+	    {
+	      "pagePath": "pages/link/index",
+	      "iconPath": "static/images/icon3c.png",
+	      "selectedIconPath": "static/images/icon3.png",
+	      "text": "联系我们"
+	    }
+	    ]
+	 }
+}
